@@ -1,5 +1,5 @@
 def unsafe?(speed)
-	while speed < 40 || > 60
+	while speed < 40 
 		puts true
 	elseputs false
 	end
